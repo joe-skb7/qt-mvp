@@ -1,0 +1,6 @@
+This project contains examples for "Model-View-Presenter in Qt" (see [1]).
+Unfortunately it's only available in Russian, but it may be easily translated
+to English using Google Translate (see [2]).
+
+[1] https://habrahabr.ru/post/107698/
+[2] https://translate.google.com/translate?sl=ru&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fhabrahabr.ru%2Fpost%2F107698%2F&edit-text=&act=url
